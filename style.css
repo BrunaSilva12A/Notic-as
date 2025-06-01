@@ -180,8 +180,8 @@ main {
 
 .terceira-secao p{
     font-size: 0.9375rem;
-    color: var(--gunmetal);
     line-height: 1.625rem;
+    color: var(--gunmetal);
 }
 
 @media(min-width: 1110px){
